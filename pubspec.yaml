@@ -39,7 +39,9 @@ dependencies:
   flutter_spinkit: ^5.2.1
   animated_text_kit: ^4.2.3
   clay_containers: ^0.3.4
-  google_mlkit_text_recognition: ^0.15.0
+  sqflite: ^2.3.0
+  path: ^1.8.3
+  path_provider: ^2.1.1
 
 
 
